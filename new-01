@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body
+    style=" 
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
+  >
+    这里是第三个网页！！！！！！
+    <p>
+      <script>
+        // 这里<p>另起一行
+      </script>
+      <a href="https://www.baidu.com/">前往百度</a>
+    </p>
+
+    <script>
+      /* 这里<p>另起一行 */
+    </script>
+    <p>
+      <a href="https://www.bilibili.com/">前往B站；</a>
+    </p>
+  </body>
+</html>
